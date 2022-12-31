@@ -2,7 +2,7 @@
 
 the program steps for designing a two-neuronal network system. The system is made up of two hidden layers, the first of which uses tanh as an activation function and the second of which uses a sigmoid function. The figure below shows the structure of a two-layer neural network. The layer can have any number of units.
 
-<img src="images/14twolayernn.png" width="300"/>
+<img src="14twolayernn.png" width="300"/>
 
 **Mathematically**:
 
